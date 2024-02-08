@@ -1,1 +1,1 @@
-## Forecasting-Macroeconomic-Indicators
+## Forecasting-macroeconomic-indicators
